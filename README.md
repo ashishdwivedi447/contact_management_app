@@ -41,4 +41,11 @@ To run this app, follow these steps:
 - Start the app: npm start
 - The app should open in your default browser at http://localhost:3000/.
 
+Screenshots
 
+![Contact_Page](https://user-images.githubusercontent.com/95959029/235317832-1df505a4-a9a5-4d10-8fda-6122f2651d18.PNG)
+![Contact_page2 PNG](https://user-images.githubusercontent.com/95959029/235317858-5db3c421-7135-49d7-ac03-d2b2d3912359.png)
+![Contact_details PNG](https://user-images.githubusercontent.com/95959029/235317873-41e5767c-b5b1-4a13-9ccf-5bc061e87776.png)
+![Contact_form](https://user-images.githubusercontent.com/95959029/235317914-1ed2c4d1-f847-4093-bc08-18658ec489b9.PNG)
+![Chart_And_Maps_1](https://user-images.githubusercontent.com/95959029/235317936-a772f2f1-b8e9-46e3-8f79-6ef185cf2e6c.PNG)
+![Charts_and_Map_2](https://user-images.githubusercontent.com/95959029/235317955-09a8ae0e-2658-4d59-9af5-7cb5edb739ef.PNG)
